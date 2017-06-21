@@ -1,0 +1,6 @@
+testtask.egg-info/PKG-INFO
+testtask.egg-info/SOURCES.txt
+testtask.egg-info/dependency_links.txt
+testtask.egg-info/entry_points.txt
+testtask.egg-info/requires.txt
+testtask.egg-info/top_level.txt
