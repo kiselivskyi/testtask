@@ -3,7 +3,7 @@
 Steps to launch the app:
 
 1. Start a mongod instance with stored data in db path:
-  mongod --dbpath db
+  mongod --dbpath testtask/db
 
 2. Start the server:
   pserve development.ini --reload
